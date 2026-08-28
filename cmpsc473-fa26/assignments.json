@@ -1,4 +1,17 @@
 {
   "schema": "classroom50/assignments/v1",
-  "assignments": []
+  "assignments": [
+    {
+      "slug": "project1",
+      "name": "Project 1",
+      "template": {
+        "owner": "cmpsc473-fall2026",
+        "repo": "project1-template",
+        "branch": "master"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true
+    }
+  ]
 }
