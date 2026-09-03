@@ -15,6 +15,13 @@
         "repo": "project1-template",
         "branch": "master"
       },
+      "due": "2026-09-12T03:59:00Z",
+      "due_meta": {
+        "input": "2026-09-11T23:59:00",
+        "zone": "America/New_York",
+        "offset": "-04:00",
+        "source": "auto-detected"
+      },
       "grading": {
         "mode": "off"
       }
