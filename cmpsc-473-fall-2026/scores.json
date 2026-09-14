@@ -1,4 +1,1223 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "project-1": {
+      "type": "individual",
+      "entries": [],
+      "collected_at": "2026-09-14T01:23:16Z",
+      "detected": [
+        {
+          "owner": "238Plutonium",
+          "count": 8,
+          "latest_datetime": "2026-09-11T19:35:19Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "9lvs",
+          "count": 7,
+          "latest_datetime": "2026-09-11T20:03:11Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "aadycm",
+          "count": 5,
+          "latest_datetime": "2026-09-11T22:45:03Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "adarsh9696",
+          "count": 9,
+          "latest_datetime": "2026-09-12T23:59:21Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "adithak17",
+          "count": 8,
+          "latest_datetime": "2026-09-11T16:13:03Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "adityapandya7979",
+          "count": 5,
+          "latest_datetime": "2026-09-11T20:49:24Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Adnan8104",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:07:50Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Afif-K",
+          "count": 6,
+          "latest_datetime": "2026-09-11T19:33:54Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "agulden",
+          "count": 13,
+          "latest_datetime": "2026-09-12T02:06:40Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Ahmed-Alj",
+          "count": 1,
+          "latest_datetime": "2026-09-10T21:11:06Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ahnaf2553",
+          "count": 7,
+          "latest_datetime": "2026-09-12T01:45:53Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ajl7184psu",
+          "count": 6,
+          "latest_datetime": "2026-09-11T20:32:01Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ajv5820",
+          "count": 9,
+          "latest_datetime": "2026-09-12T03:32:39Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "alphakotenok",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:06:12Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Ameya-bit",
+          "count": 19,
+          "latest_datetime": "2026-09-12T01:58:12Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "AnthonyH03",
+          "count": 6,
+          "latest_datetime": "2026-09-11T23:37:45Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "anuroopsaini193",
+          "count": 5,
+          "latest_datetime": "2026-09-11T19:20:10Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "arianasookoo",
+          "count": 8,
+          "latest_datetime": "2026-09-11T23:47:14Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "arshawnv1",
+          "count": 2,
+          "latest_datetime": "2026-09-12T00:13:41Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "artaGhs",
+          "count": 5,
+          "latest_datetime": "2026-09-11T23:26:41Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Arv5367",
+          "count": 5,
+          "latest_datetime": "2026-09-10T19:41:52Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ash0911suresh",
+          "count": 10,
+          "latest_datetime": "2026-09-12T02:17:22Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Asubbb",
+          "count": 10,
+          "latest_datetime": "2026-09-11T20:54:36Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "AugustZ44",
+          "count": 8,
+          "latest_datetime": "2026-09-08T15:10:08Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "B-DogVictini",
+          "count": 8,
+          "latest_datetime": "2026-09-11T23:25:51Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "bennettwhitacre",
+          "count": 2,
+          "latest_datetime": "2026-09-13T01:32:04Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "bossbadi",
+          "count": 8,
+          "latest_datetime": "2026-09-11T21:42:02Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "BrandonVassallo",
+          "count": 5,
+          "latest_datetime": "2026-09-11T01:56:27Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "cat391",
+          "count": 5,
+          "latest_datetime": "2026-09-10T21:08:35Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Cazanda",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:42:25Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Charlie0921",
+          "count": 9,
+          "latest_datetime": "2026-09-12T01:11:02Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "chathnen",
+          "count": 11,
+          "latest_datetime": "2026-09-12T02:51:46Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "clm6757",
+          "count": 7,
+          "latest_datetime": "2026-09-10T15:10:56Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "colind17",
+          "count": 6,
+          "latest_datetime": "2026-09-12T00:15:52Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "crqzyexprees",
+          "count": 5,
+          "latest_datetime": "2026-09-12T02:08:41Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "cxs6261",
+          "count": 10,
+          "latest_datetime": "2026-09-11T17:47:10Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Daniel-Kim000",
+          "count": 7,
+          "latest_datetime": "2026-09-11T21:17:35Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "danielkkhalilpsu",
+          "count": 11,
+          "latest_datetime": "2026-09-11T19:09:51Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "danielsoo",
+          "count": 9,
+          "latest_datetime": "2026-09-12T01:44:28Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "DaubenytheWarden2003",
+          "count": 6,
+          "latest_datetime": "2026-09-11T05:32:27Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "DevSingh05",
+          "count": 6,
+          "latest_datetime": "2026-09-12T02:27:48Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "dhavalaaks23",
+          "count": 5,
+          "latest_datetime": "2026-09-10T22:52:22Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "DLantz3",
+          "count": 13,
+          "latest_datetime": "2026-09-12T03:29:30Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Doublebro007",
+          "count": 9,
+          "latest_datetime": "2026-09-12T02:36:34Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "dpak2005",
+          "count": 7,
+          "latest_datetime": "2026-09-12T01:16:52Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "DT2948",
+          "count": 6,
+          "latest_datetime": "2026-09-10T01:53:33Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "efg5344",
+          "count": 9,
+          "latest_datetime": "2026-09-11T13:47:34Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ejs6710",
+          "count": 11,
+          "latest_datetime": "2026-09-05T18:41:24Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ethankuo6025",
+          "count": 2,
+          "latest_datetime": "2026-09-10T22:05:18Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Eyao24",
+          "count": 14,
+          "latest_datetime": "2026-09-12T02:26:03Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "fbano-0619",
+          "count": 8,
+          "latest_datetime": "2026-09-12T03:25:43Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "galaxy-speed",
+          "count": 9,
+          "latest_datetime": "2026-09-11T07:02:42Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "gkaim2005",
+          "count": 7,
+          "latest_datetime": "2026-09-10T18:43:01Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "goktangudukbay",
+          "count": 1,
+          "latest_datetime": "2026-08-29T12:31:52Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "gtroop",
+          "count": 6,
+          "latest_datetime": "2026-09-12T01:13:02Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "h4lfheart",
+          "count": 7,
+          "latest_datetime": "2026-09-11T23:38:53Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "HaodongHuang777",
+          "count": 6,
+          "latest_datetime": "2026-09-12T03:56:02Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "harrycodingnow",
+          "count": 11,
+          "latest_datetime": "2026-09-09T01:36:15Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Harshagarwal06",
+          "count": 7,
+          "latest_datetime": "2026-09-12T02:49:23Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Hassan2k5",
+          "count": 5,
+          "latest_datetime": "2026-09-09T23:31:13Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "hbutterfinger2",
+          "count": 6,
+          "latest_datetime": "2026-09-12T03:37:47Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "hmcmullen5606",
+          "count": 5,
+          "latest_datetime": "2026-09-12T02:55:11Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Hyperstop17",
+          "count": 6,
+          "latest_datetime": "2026-09-13T03:44:55Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "iay5016-a11y",
+          "count": 6,
+          "latest_datetime": "2026-09-13T03:16:54Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "itsanushkah",
+          "count": 8,
+          "latest_datetime": "2026-09-11T23:01:04Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Jackpanarella12",
+          "count": 5,
+          "latest_datetime": "2026-09-10T21:30:40Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Jakealsharrah157",
+          "count": 6,
+          "latest_datetime": "2026-09-12T03:21:30Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "JaysonDuell",
+          "count": 7,
+          "latest_datetime": "2026-09-12T03:50:56Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "jchen4906",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:54:40Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "jes7177",
+          "count": 6,
+          "latest_datetime": "2026-09-12T00:48:15Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "jessicaajawa",
+          "count": 7,
+          "latest_datetime": "2026-09-12T03:33:24Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Jiahao-Zeng",
+          "count": 15,
+          "latest_datetime": "2026-09-11T22:17:27Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Jonathanhsiao123",
+          "count": 10,
+          "latest_datetime": "2026-09-12T01:49:07Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "joshb1234",
+          "count": 5,
+          "latest_datetime": "2026-09-11T00:40:53Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "KamikazePilot",
+          "count": 6,
+          "latest_datetime": "2026-09-12T01:49:34Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "karkrazysun9",
+          "count": 7,
+          "latest_datetime": "2026-09-12T03:50:10Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "katerina-n-dimitrova",
+          "count": 8,
+          "latest_datetime": "2026-09-13T02:23:31Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "kavyansh091",
+          "count": 4,
+          "latest_datetime": "2026-09-11T00:08:10Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "kenvanhouten",
+          "count": 9,
+          "latest_datetime": "2026-09-11T04:58:19Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Keshav-kh",
+          "count": 12,
+          "latest_datetime": "2026-09-11T18:34:28Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "kierstur8912",
+          "count": 10,
+          "latest_datetime": "2026-09-11T23:57:56Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "kmathewjason",
+          "count": 8,
+          "latest_datetime": "2026-09-11T17:07:21Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "kpk5680",
+          "count": 10,
+          "latest_datetime": "2026-09-12T03:21:44Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "krishna-0204",
+          "count": 5,
+          "latest_datetime": "2026-09-12T01:57:58Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "kvv5187",
+          "count": 8,
+          "latest_datetime": "2026-09-13T01:10:33Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "leonac24",
+          "count": 10,
+          "latest_datetime": "2026-09-11T15:54:49Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "LiangtaoHu",
+          "count": 1,
+          "latest_datetime": "2026-09-11T23:05:42Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Lifer098",
+          "count": 5,
+          "latest_datetime": "2026-09-11T20:08:49Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "lmk6156",
+          "count": 9,
+          "latest_datetime": "2026-09-12T00:43:18Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "lpc5553",
+          "count": 11,
+          "latest_datetime": "2026-09-05T18:32:31Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "lukekproj",
+          "count": 8,
+          "latest_datetime": "2026-09-11T16:26:13Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mackenzie-nelson",
+          "count": 13,
+          "latest_datetime": "2026-09-12T00:50:49Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "MadhavKapoor2005",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:19:09Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "madhurakhandkar",
+          "count": 10,
+          "latest_datetime": "2026-09-12T03:16:05Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "MagicalFiesh",
+          "count": 4,
+          "latest_datetime": "2026-09-12T03:52:27Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Manmeet-07",
+          "count": 6,
+          "latest_datetime": "2026-09-12T01:11:15Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "MarmikChaudhari",
+          "count": 4,
+          "latest_datetime": "2026-09-10T22:48:39Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Marvin2NB",
+          "count": 7,
+          "latest_datetime": "2026-09-11T17:08:15Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mbl61",
+          "count": 8,
+          "latest_datetime": "2026-09-11T15:52:02Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mfrayne",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:16:13Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mgreenlaw10",
+          "count": 15,
+          "latest_datetime": "2026-09-11T16:46:18Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "MiaWe0",
+          "count": 6,
+          "latest_datetime": "2026-09-10T18:02:25Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mikey2005-S",
+          "count": 10,
+          "latest_datetime": "2026-09-12T01:56:57Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Misterhungery21",
+          "count": 10,
+          "latest_datetime": "2026-09-12T03:11:09Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mitras-git",
+          "count": 12,
+          "latest_datetime": "2026-09-12T03:19:51Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mju5144",
+          "count": 5,
+          "latest_datetime": "2026-09-11T18:30:31Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mkb-GSI9",
+          "count": 7,
+          "latest_datetime": "2026-09-11T04:16:13Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ModdedMarionette",
+          "count": 5,
+          "latest_datetime": "2026-09-11T02:15:35Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mtvadam",
+          "count": 6,
+          "latest_datetime": "2026-09-11T21:27:36Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mzl6042",
+          "count": 5,
+          "latest_datetime": "2026-09-12T00:34:17Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "mzr6030",
+          "count": 21,
+          "latest_datetime": "2026-09-11T19:18:53Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "NalluriTanavreddy",
+          "count": 5,
+          "latest_datetime": "2026-09-12T02:44:02Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "namanKhand",
+          "count": 6,
+          "latest_datetime": "2026-09-12T02:03:51Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Nasd00",
+          "count": 6,
+          "latest_datetime": "2026-09-12T03:51:21Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "nehavalamkonda",
+          "count": 5,
+          "latest_datetime": "2026-09-12T00:28:47Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "neilchattopadhyay123",
+          "count": 7,
+          "latest_datetime": "2026-09-12T01:38:18Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "nkotikal",
+          "count": 6,
+          "latest_datetime": "2026-09-12T02:20:58Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "noski2",
+          "count": 7,
+          "latest_datetime": "2026-09-11T22:58:29Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "npa5443",
+          "count": 8,
+          "latest_datetime": "2026-09-11T10:58:35Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "nqk5435",
+          "count": 8,
+          "latest_datetime": "2026-09-12T03:55:57Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "nzm5643",
+          "count": 5,
+          "latest_datetime": "2026-09-11T12:54:15Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "oas5234",
+          "count": 3,
+          "latest_datetime": "2026-09-12T06:07:31Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "OBress",
+          "count": 7,
+          "latest_datetime": "2026-09-12T00:16:43Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "par311psu",
+          "count": 8,
+          "latest_datetime": "2026-09-12T03:02:33Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "pcd5147",
+          "count": 5,
+          "latest_datetime": "2026-09-11T19:46:28Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "peram-vignesh",
+          "count": 6,
+          "latest_datetime": "2026-09-12T03:25:00Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "PihuAgarwal",
+          "count": 5,
+          "latest_datetime": "2026-09-12T02:01:07Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Prakhar6",
+          "count": 5,
+          "latest_datetime": "2026-09-11T22:06:04Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Rayyan2235",
+          "count": 12,
+          "latest_datetime": "2026-09-12T02:14:03Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "raz5162-Rayyan",
+          "count": 7,
+          "latest_datetime": "2026-09-12T04:27:20Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "rbalusu5630",
+          "count": 6,
+          "latest_datetime": "2026-09-12T01:30:34Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "rishitap25",
+          "count": 6,
+          "latest_datetime": "2026-09-10T20:16:23Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "RJC862",
+          "count": 5,
+          "latest_datetime": "2026-09-10T19:29:11Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "rjonnavittula",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:38:55Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "rmbdrew",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:48:14Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ryan9987",
+          "count": 8,
+          "latest_datetime": "2026-09-11T19:07:55Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "ryannair05",
+          "count": 8,
+          "latest_datetime": "2026-09-12T03:38:31Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "sadid-hassan",
+          "count": 6,
+          "latest_datetime": "2026-09-12T23:58:01Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "sanyam-the-coder",
+          "count": 7,
+          "latest_datetime": "2026-09-11T19:31:13Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "sbv5268",
+          "count": 14,
+          "latest_datetime": "2026-09-12T00:27:47Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "sfb6144",
+          "count": 5,
+          "latest_datetime": "2026-09-12T02:13:08Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "sfurniss1234",
+          "count": 6,
+          "latest_datetime": "2026-09-12T01:12:41Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "shi1197872757",
+          "count": 6,
+          "latest_datetime": "2026-09-11T20:07:24Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "shreyas-challa",
+          "count": 7,
+          "latest_datetime": "2026-09-12T03:08:28Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Sid-Tek",
+          "count": 6,
+          "latest_datetime": "2026-09-09T00:51:51Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Singhbling523",
+          "count": 13,
+          "latest_datetime": "2026-09-11T01:51:04Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Sophie-lmy",
+          "count": 8,
+          "latest_datetime": "2026-09-11T23:11:37Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "spencerirving",
+          "count": 17,
+          "latest_datetime": "2026-09-11T19:33:15Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "sreenidhbonagiri",
+          "count": 6,
+          "latest_datetime": "2026-09-10T20:41:30Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "svcprogrammer",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:40:44Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "sxgargg",
+          "count": 7,
+          "latest_datetime": "2026-09-11T23:57:30Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "TaiSchaefer",
+          "count": 9,
+          "latest_datetime": "2026-09-11T20:09:53Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Texsic",
+          "count": 7,
+          "latest_datetime": "2026-09-12T00:25:30Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "TisyaRok",
+          "count": 9,
+          "latest_datetime": "2026-09-12T00:44:40Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "tkt5336",
+          "count": 6,
+          "latest_datetime": "2026-09-12T03:29:01Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Tylerlovett04",
+          "count": 8,
+          "latest_datetime": "2026-09-12T01:39:42Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Ufv5002",
+          "count": 5,
+          "latest_datetime": "2026-09-11T16:52:19Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "V1ckyVong",
+          "count": 6,
+          "latest_datetime": "2026-09-10T03:37:13Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "vanishagupta05",
+          "count": 5,
+          "latest_datetime": "2026-09-12T01:54:17Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "VincentChen2",
+          "count": 10,
+          "latest_datetime": "2026-09-12T01:27:21Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Viroopaksh",
+          "count": 4,
+          "latest_datetime": "2026-09-13T00:30:52Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "vivekp-05",
+          "count": 7,
+          "latest_datetime": "2026-09-11T06:04:55Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "wangjiewen366-bot",
+          "count": 2,
+          "latest_datetime": "2026-09-08T01:17:32Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "willmeyer216",
+          "count": 5,
+          "latest_datetime": "2026-09-12T01:11:41Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "WingKiChow",
+          "count": 6,
+          "latest_datetime": "2026-09-12T01:12:59Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "WyattPetula",
+          "count": 8,
+          "latest_datetime": "2026-09-11T19:53:32Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "YunleiGe",
+          "count": 7,
+          "latest_datetime": "2026-09-13T03:32:06Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
+          "owner": "yxk5255",
+          "count": 8,
+          "latest_datetime": "2026-09-11T21:22:36Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "zia2ia",
+          "count": 5,
+          "latest_datetime": "2026-09-11T20:52:54Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "Zihan64",
+          "count": 7,
+          "latest_datetime": "2026-09-12T03:27:43Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "zkh5243",
+          "count": 5,
+          "latest_datetime": "2026-09-12T03:41:20Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "zytran",
+          "count": 10,
+          "latest_datetime": "2026-09-11T22:58:04Z",
+          "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "zzhh-7701",
+          "count": 10,
+          "latest_datetime": "2026-09-12T01:18:20Z",
+          "late": false,
+          "kind": "commit"
+        }
+      ]
+    }
+  }
 }
