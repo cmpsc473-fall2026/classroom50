@@ -25,6 +25,31 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "project-2",
+      "name": "Project-2",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "cmpsc473-fall2026",
+        "repo": "project2-template",
+        "branch": "main"
+      },
+      "due": "2026-10-04T03:59:00Z",
+      "due_meta": {
+        "input": "2026-10-03T23:59:00",
+        "zone": "America/New_York",
+        "offset": "-04:00",
+        "source": "auto-detected"
+      },
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
