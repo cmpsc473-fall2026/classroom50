@@ -4,7 +4,7 @@
     "project-1": {
       "type": "individual",
       "entries": [],
-      "collected_at": "2026-09-14T01:23:16Z",
+      "collected_at": "2026-09-16T03:48:23Z",
       "detected": [
         {
           "owner": "238Plutonium",
@@ -424,6 +424,13 @@
           "count": 5,
           "latest_datetime": "2026-09-09T23:31:13Z",
           "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "hbn5115",
+          "count": 1,
+          "latest_datetime": "2026-09-14T04:17:48Z",
+          "late": true,
           "kind": "commit"
         },
         {
@@ -918,9 +925,9 @@
         },
         {
           "owner": "rbalusu5630",
-          "count": 6,
-          "latest_datetime": "2026-09-12T01:30:34Z",
-          "late": false,
+          "count": 7,
+          "latest_datetime": "2026-09-14T03:47:14Z",
+          "late": true,
           "kind": "commit"
         },
         {
@@ -932,9 +939,9 @@
         },
         {
           "owner": "RJC862",
-          "count": 5,
-          "latest_datetime": "2026-09-10T19:29:11Z",
-          "late": false,
+          "count": 6,
+          "latest_datetime": "2026-09-14T22:10:15Z",
+          "late": true,
           "kind": "commit"
         },
         {
@@ -1047,6 +1054,13 @@
           "count": 6,
           "latest_datetime": "2026-09-10T20:41:30Z",
           "late": false,
+          "kind": "commit"
+        },
+        {
+          "owner": "stealthblight",
+          "count": 6,
+          "latest_datetime": "2026-09-14T01:28:26Z",
+          "late": true,
           "kind": "commit"
         },
         {
