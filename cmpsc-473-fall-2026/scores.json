@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-24T20:32:18Z",
+      "collected_at": "2026-09-24T20:41:41Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1285,8 +1285,8 @@
         },
         {
           "owner": "group-13",
-          "count": 2,
-          "latest_datetime": "2026-09-24T19:04:44Z",
+          "count": 3,
+          "latest_datetime": "2026-09-24T20:31:09Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
