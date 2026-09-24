@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-24T17:51:05Z",
+      "collected_at": "2026-09-24T18:11:53Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1599,6 +1599,17 @@
             "yxk5255"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-9"
+        },
+        {
+          "owner": "group-92",
+          "count": 1,
+          "latest_datetime": "2026-09-24T18:08:57Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "anuroopsaini193"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-92"
         }
       ]
     }
