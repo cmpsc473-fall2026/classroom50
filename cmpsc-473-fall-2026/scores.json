@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-24T11:32:09Z",
+      "collected_at": "2026-09-24T15:20:37Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1285,8 +1285,8 @@
         },
         {
           "owner": "group-18",
-          "count": 2,
-          "latest_datetime": "2026-09-24T02:35:36Z",
+          "count": 7,
+          "latest_datetime": "2026-09-24T14:20:22Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1315,6 +1315,17 @@
             "jackpanarella12"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-20"
+        },
+        {
+          "owner": "group-21",
+          "count": 1,
+          "latest_datetime": "2026-09-24T14:39:51Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "madhavkapoor2005"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-21"
         },
         {
           "owner": "group-23",
@@ -1464,8 +1475,8 @@
         },
         {
           "owner": "group-6",
-          "count": 9,
-          "latest_datetime": "2026-09-23T19:56:49Z",
+          "count": 11,
+          "latest_datetime": "2026-09-24T15:17:05Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
