@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-24T15:20:37Z",
+      "collected_at": "2026-09-24T17:51:05Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1248,6 +1248,18 @@
             "joshb1234"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-1"
+        },
+        {
+          "owner": "group-100",
+          "count": 1,
+          "latest_datetime": "2026-09-24T17:11:02Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "dlantz3",
+            "gtroop"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-100"
         },
         {
           "owner": "group-11",
@@ -1396,6 +1408,17 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-32"
         },
         {
+          "owner": "group-38",
+          "count": 1,
+          "latest_datetime": "2026-09-24T16:16:34Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "ajl7184psu"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-38"
+        },
+        {
           "owner": "group-39",
           "count": 3,
           "latest_datetime": "2026-09-24T03:35:52Z",
@@ -1416,6 +1439,17 @@
             "kierstur8912"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-40"
+        },
+        {
+          "owner": "group-45",
+          "count": 1,
+          "latest_datetime": "2026-09-24T17:22:19Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "9lvs"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-45"
         },
         {
           "owner": "group-46",
@@ -1475,8 +1509,8 @@
         },
         {
           "owner": "group-6",
-          "count": 11,
-          "latest_datetime": "2026-09-24T15:17:05Z",
+          "count": 12,
+          "latest_datetime": "2026-09-24T16:40:22Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
