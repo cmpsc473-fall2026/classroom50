@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-25T17:56:16Z",
+      "collected_at": "2026-09-25T18:05:20Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1385,8 +1385,8 @@
         },
         {
           "owner": "group-115",
-          "count": 1,
-          "latest_datetime": "2026-09-25T17:44:06Z",
+          "count": 2,
+          "latest_datetime": "2026-09-25T17:57:47Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1396,8 +1396,8 @@
         },
         {
           "owner": "group-116",
-          "count": 1,
-          "latest_datetime": "2026-09-25T17:54:42Z",
+          "count": 2,
+          "latest_datetime": "2026-09-25T18:03:05Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1539,6 +1539,17 @@
             "lpc5553"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-25"
+        },
+        {
+          "owner": "group-27",
+          "count": 1,
+          "latest_datetime": "2026-09-25T18:02:57Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "cxs6261"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-27"
         },
         {
           "owner": "group-29",
