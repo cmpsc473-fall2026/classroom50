@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-25T02:46:08Z",
+      "collected_at": "2026-09-25T13:17:48Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1260,6 +1260,18 @@
             "gtroop"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-100"
+        },
+        {
+          "owner": "group-104",
+          "count": 1,
+          "latest_datetime": "2026-09-25T03:53:52Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "cazanda",
+            "kvv5187"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-104"
         },
         {
           "owner": "group-106",
@@ -1293,6 +1305,17 @@
             "magicalfiesh"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-108"
+        },
+        {
+          "owner": "group-109",
+          "count": 1,
+          "latest_datetime": "2026-09-25T04:14:42Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "tkt5336"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-109"
         },
         {
           "owner": "group-11",
@@ -1475,8 +1498,8 @@
         },
         {
           "owner": "group-39",
-          "count": 4,
-          "latest_datetime": "2026-09-24T22:14:42Z",
+          "count": 5,
+          "latest_datetime": "2026-09-25T03:30:30Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1494,6 +1517,18 @@
             "kierstur8912"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-40"
+        },
+        {
+          "owner": "group-42",
+          "count": 1,
+          "latest_datetime": "2026-09-25T06:25:17Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "agulden",
+            "clm6757"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-42"
         },
         {
           "owner": "group-44",
@@ -1585,6 +1620,18 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-52"
         },
         {
+          "owner": "group-54",
+          "count": 1,
+          "latest_datetime": "2026-09-25T02:56:14Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "mzr6030",
+            "rishitap25"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-54"
+        },
+        {
           "owner": "group-6",
           "count": 16,
           "latest_datetime": "2026-09-25T02:22:58Z",
@@ -1632,8 +1679,8 @@
         },
         {
           "owner": "group-76",
-          "count": 4,
-          "latest_datetime": "2026-09-24T22:58:33Z",
+          "count": 6,
+          "latest_datetime": "2026-09-25T06:41:03Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1688,6 +1735,17 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-83"
         },
         {
+          "owner": "group-84",
+          "count": 1,
+          "latest_datetime": "2026-09-25T05:09:31Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "ufv5002"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-84"
+        },
+        {
           "owner": "group-86",
           "count": 1,
           "latest_datetime": "2026-09-24T08:55:42Z",
@@ -1710,6 +1768,18 @@
             "yxk5255"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-9"
+        },
+        {
+          "owner": "group-90",
+          "count": 1,
+          "latest_datetime": "2026-09-25T05:24:14Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "238plutonium",
+            "sophie-lmy"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-90"
         },
         {
           "owner": "group-92",
