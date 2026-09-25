@@ -908,7 +908,8 @@
           "slug": "classroom50-group-0e37e88d79b3a8d8-103",
           "id": 19711233,
           "members": [
-            "rbalusu5630"
+            "rbalusu5630",
+            "sfb6144"
           ],
           "formation": "student"
         },
@@ -1066,6 +1067,14 @@
           "name": "Group 120",
           "members": [
             "alphakotenok"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-122",
+          "id": 19732256,
+          "members": [
+            "hbutterfinger2"
           ],
           "formation": "student"
         }
