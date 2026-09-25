@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-25T20:02:26Z",
+      "collected_at": "2026-09-25T20:09:44Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1723,6 +1723,18 @@
             "rishitap25"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-54"
+        },
+        {
+          "owner": "group-55",
+          "count": 1,
+          "latest_datetime": "2026-09-25T20:03:41Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "sanyam-the-coder",
+            "sreenidhbonagiri"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-55"
         },
         {
           "owner": "group-57",
