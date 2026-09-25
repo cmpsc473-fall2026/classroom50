@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-25T18:05:20Z",
+      "collected_at": "2026-09-25T18:09:10Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1404,6 +1404,17 @@
             "asubbb"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-116"
+        },
+        {
+          "owner": "group-117",
+          "count": 1,
+          "latest_datetime": "2026-09-25T18:05:17Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "doublebro007"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-117"
         },
         {
           "owner": "group-12",
