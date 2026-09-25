@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-25T18:17:09Z",
+      "collected_at": "2026-09-25T18:51:04Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1352,8 +1352,8 @@
         },
         {
           "owner": "group-112",
-          "count": 1,
-          "latest_datetime": "2026-09-25T17:21:23Z",
+          "count": 3,
+          "latest_datetime": "2026-09-25T18:36:49Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1452,8 +1452,8 @@
         },
         {
           "owner": "group-15",
-          "count": 19,
-          "latest_datetime": "2026-09-25T18:13:45Z",
+          "count": 22,
+          "latest_datetime": "2026-09-25T18:20:28Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1787,6 +1787,28 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-6"
         },
         {
+          "owner": "group-61",
+          "count": 1,
+          "latest_datetime": "2026-09-25T18:45:50Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "miawe0"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-61"
+        },
+        {
+          "owner": "group-62",
+          "count": 1,
+          "latest_datetime": "2026-09-25T18:24:42Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "arv5367"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-62"
+        },
+        {
           "owner": "group-63",
           "count": 4,
           "latest_datetime": "2026-09-25T00:15:50Z",
@@ -1911,6 +1933,18 @@
             "yunleige"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-86"
+        },
+        {
+          "owner": "group-87",
+          "count": 1,
+          "latest_datetime": "2026-09-25T18:27:45Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "jchen4906",
+            "svcprogrammer"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-87"
         },
         {
           "owner": "group-9",
