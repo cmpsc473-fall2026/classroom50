@@ -905,6 +905,14 @@
           "formation": "student"
         },
         {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-102",
+          "id": 19732306,
+          "members": [
+            "mtvadam"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-103",
           "id": 19711233,
           "members": [
@@ -1075,6 +1083,15 @@
           "id": 19732256,
           "members": [
             "hbutterfinger2"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-123",
+          "id": 19732431,
+          "name": "Bennett Whitacre",
+          "members": [
+            "bennettwhitacre"
           ],
           "formation": "student"
         }
