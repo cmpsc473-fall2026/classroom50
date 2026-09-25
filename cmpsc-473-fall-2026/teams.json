@@ -905,6 +905,15 @@
           "formation": "student"
         },
         {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-102",
+          "id": 19732082,
+          "name": "Nittany Lion",
+          "members": [
+            "mtvadam"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-103",
           "id": 19711233,
           "members": [
@@ -1058,6 +1067,15 @@
           "id": 19731630,
           "name": "Group 200",
           "members": [],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-121",
+          "id": 19732097,
+          "name": "Group 120",
+          "members": [
+            "alphakotenok"
+          ],
           "formation": "student"
         }
       ]
