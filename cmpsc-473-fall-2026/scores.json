@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-25T17:26:55Z",
+      "collected_at": "2026-09-25T17:56:16Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1373,6 +1373,39 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-113"
         },
         {
+          "owner": "group-114",
+          "count": 1,
+          "latest_datetime": "2026-09-25T17:37:29Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "ash0911suresh"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-114"
+        },
+        {
+          "owner": "group-115",
+          "count": 1,
+          "latest_datetime": "2026-09-25T17:44:06Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "zytran"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-115"
+        },
+        {
+          "owner": "group-116",
+          "count": 1,
+          "latest_datetime": "2026-09-25T17:54:42Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "asubbb"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-116"
+        },
+        {
           "owner": "group-12",
           "count": 1,
           "latest_datetime": "2026-09-25T17:22:56Z",
@@ -1386,8 +1419,8 @@
         },
         {
           "owner": "group-13",
-          "count": 4,
-          "latest_datetime": "2026-09-24T20:54:49Z",
+          "count": 5,
+          "latest_datetime": "2026-09-25T17:52:28Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1417,6 +1450,17 @@
             "ryan9987"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-15"
+        },
+        {
+          "owner": "group-17",
+          "count": 1,
+          "latest_datetime": "2026-09-25T17:49:28Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "danielkkhalilpsu"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-17"
         },
         {
           "owner": "group-18",
@@ -1576,8 +1620,8 @@
         },
         {
           "owner": "group-42",
-          "count": 1,
-          "latest_datetime": "2026-09-25T06:25:17Z",
+          "count": 4,
+          "latest_datetime": "2026-09-25T17:43:47Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1699,6 +1743,17 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-57"
         },
         {
+          "owner": "group-58",
+          "count": 1,
+          "latest_datetime": "2026-09-25T17:30:44Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "leonac24"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-58"
+        },
+        {
           "owner": "group-6",
           "count": 16,
           "latest_datetime": "2026-09-25T02:22:58Z",
@@ -1720,6 +1775,17 @@
             "prakhar6"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-63"
+        },
+        {
+          "owner": "group-70",
+          "count": 1,
+          "latest_datetime": "2026-09-25T17:45:59Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "peram-vignesh"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-70"
         },
         {
           "owner": "group-71",
@@ -1847,6 +1913,17 @@
             "sophie-lmy"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-90"
+        },
+        {
+          "owner": "group-91",
+          "count": 1,
+          "latest_datetime": "2026-09-25T17:35:30Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "pcd5147"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-91"
         },
         {
           "owner": "group-92",
