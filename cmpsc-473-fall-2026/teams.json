@@ -1094,6 +1094,23 @@
             "bennettwhitacre"
           ],
           "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-124",
+          "id": 19733030,
+          "name": "Haikal",
+          "members": [
+            "DaubenytheWarden2003"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-125",
+          "id": 19733361,
+          "members": [
+            "stealthblight"
+          ],
+          "formation": "student"
         }
       ]
     }
