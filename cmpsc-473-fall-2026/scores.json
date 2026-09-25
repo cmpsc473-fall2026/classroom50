@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-25T20:09:44Z",
+      "collected_at": "2026-09-25T20:28:12Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1760,14 +1760,26 @@
         },
         {
           "owner": "group-6",
-          "count": 16,
-          "latest_datetime": "2026-09-25T02:22:58Z",
+          "count": 17,
+          "latest_datetime": "2026-09-25T20:22:00Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
             "ejs6710"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-6"
+        },
+        {
+          "owner": "group-60",
+          "count": 1,
+          "latest_datetime": "2026-09-25T20:11:10Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "mackenzie-nelson",
+            "nehavalamkonda"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-60"
         },
         {
           "owner": "group-61",
@@ -2019,6 +2031,17 @@
             "anuroopsaini193"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-92"
+        },
+        {
+          "owner": "group-93",
+          "count": 1,
+          "latest_datetime": "2026-09-25T20:26:43Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "willmeyer216"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-93"
         },
         {
           "owner": "group-94",
