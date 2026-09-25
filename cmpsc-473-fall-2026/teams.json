@@ -221,10 +221,20 @@
           "formation": "student"
         },
         {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-26",
+          "id": 19731374,
+          "name": "Zia Bhatti",
+          "members": [
+            "zia2ia"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-27",
           "id": 19550117,
           "name": "Bit Shift Metron",
           "members": [
+            "Lifer098",
             "cxs6261"
           ],
           "formation": "student"
@@ -895,6 +905,14 @@
           "formation": "student"
         },
         {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-102",
+          "id": 19731400,
+          "members": [
+            "hbutterfinger2"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-103",
           "id": 19711233,
           "members": [
@@ -995,7 +1013,8 @@
           "slug": "classroom50-group-0e37e88d79b3a8d8-114",
           "id": 19729557,
           "members": [
-            "ash0911suresh"
+            "ash0911suresh",
+            "par311psu"
           ],
           "formation": "student"
         },
@@ -1023,6 +1042,30 @@
           "members": [
             "Doublebro007"
           ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-118",
+          "id": 19731416,
+          "name": "RK & Q",
+          "members": [
+            "rjonnavittula"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-119",
+          "id": 19731574,
+          "members": [
+            "mfrayne"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-120",
+          "id": 19731630,
+          "name": "Group 200",
+          "members": [],
           "formation": "student"
         }
       ]
