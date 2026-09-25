@@ -926,7 +926,7 @@
           "id": 19711679,
           "name": "SBGLs",
           "members": [
-            "Cazanda",
+            "shrey-singala",
             "kvv5187"
           ],
           "formation": "student"
@@ -1014,8 +1014,7 @@
           "slug": "classroom50-group-0e37e88d79b3a8d8-114",
           "id": 19729557,
           "members": [
-            "ash0911suresh",
-            "par311psu"
+            "ash0911suresh"
           ],
           "formation": "student"
         },
@@ -1109,6 +1108,32 @@
           "id": 19733361,
           "members": [
             "stealthblight"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-126",
+          "id": 19733446,
+          "name": "Jayson Duell",
+          "members": [
+            "JaysonDuell"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-127",
+          "id": 19733449,
+          "members": [
+            "jeetp87"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-128",
+          "id": 19733666,
+          "name": "Arshawn",
+          "members": [
+            "arshawnv1"
           ],
           "formation": "student"
         }
