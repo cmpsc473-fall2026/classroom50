@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-26T02:32:33Z",
+      "collected_at": "2026-09-26T02:36:49Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1406,6 +1406,17 @@
             "sadid-hassan"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-112"
+        },
+        {
+          "owner": "group-113",
+          "count": 1,
+          "latest_datetime": "2026-09-26T02:33:09Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "nanyabiss"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-113"
         },
         {
           "owner": "group-114",
@@ -2474,8 +2485,8 @@
         },
         {
           "owner": "group-86",
-          "count": 2,
-          "latest_datetime": "2026-09-26T02:06:56Z",
+          "count": 3,
+          "latest_datetime": "2026-09-26T02:35:15Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
