@@ -222,13 +222,6 @@
           "formation": "student"
         },
         {
-          "slug": "classroom50-group-0e37e88d79b3a8d8-26",
-          "id": 19734791,
-          "name": "Wing Ki Chow",
-          "members": [],
-          "formation": "student"
-        },
-        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-27",
           "id": 19550117,
           "name": "Bit Shift Metron",
@@ -1182,7 +1175,9 @@
           "slug": "classroom50-group-0e37e88d79b3a8d8-134",
           "id": 19734792,
           "name": "Wing Ki Chow",
-          "members": [],
+          "members": [
+            "WingKiChow"
+          ],
           "formation": "student"
         }
       ]
