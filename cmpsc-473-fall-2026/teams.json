@@ -222,6 +222,15 @@
           "formation": "student"
         },
         {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-26",
+          "id": 19734651,
+          "name": "Colin DAmico",
+          "members": [
+            "colind17"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-27",
           "id": 19550117,
           "name": "Bit Shift Metron",
