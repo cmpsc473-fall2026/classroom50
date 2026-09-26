@@ -1236,7 +1236,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-09-26T01:03:26Z",
+      "collected_at": "2026-09-26T01:35:35Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1251,8 +1251,8 @@
         },
         {
           "owner": "group-10",
-          "count": 1,
-          "latest_datetime": "2026-09-26T01:00:54Z",
+          "count": 2,
+          "latest_datetime": "2026-09-26T01:07:50Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1342,6 +1342,17 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-107"
         },
         {
+          "owner": "group-109",
+          "count": 1,
+          "latest_datetime": "2026-09-26T01:13:34Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "tkt5336"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-109"
+        },
+        {
           "owner": "group-11",
           "count": 16,
           "latest_datetime": "2026-09-24T01:08:22Z",
@@ -1421,8 +1432,8 @@
         },
         {
           "owner": "group-12",
-          "count": 2,
-          "latest_datetime": "2026-09-25T23:46:55Z",
+          "count": 3,
+          "latest_datetime": "2026-09-26T01:11:19Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1441,6 +1452,17 @@
             "zia2ia"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-120"
+        },
+        {
+          "owner": "group-122",
+          "count": 1,
+          "latest_datetime": "2026-09-26T01:25:56Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "hbutterfinger2"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-122"
         },
         {
           "owner": "group-123",
@@ -1588,8 +1610,8 @@
         },
         {
           "owner": "group-19",
-          "count": 2,
-          "latest_datetime": "2026-09-26T00:59:28Z",
+          "count": 3,
+          "latest_datetime": "2026-09-26T01:12:10Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -1770,8 +1792,8 @@
         },
         {
           "owner": "group-36",
-          "count": 1,
-          "latest_datetime": "2026-09-25T22:02:05Z",
+          "count": 3,
+          "latest_datetime": "2026-09-26T01:18:49Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -2099,6 +2121,18 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-63"
         },
         {
+          "owner": "group-64",
+          "count": 1,
+          "latest_datetime": "2026-09-26T01:13:34Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "galaxy-speed",
+            "zihan64"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-64"
+        },
+        {
           "owner": "group-65",
           "count": 1,
           "latest_datetime": "2026-09-25T18:56:12Z",
@@ -2108,6 +2142,17 @@
             "jes7177"
           ],
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-65"
+        },
+        {
+          "owner": "group-67",
+          "count": 1,
+          "latest_datetime": "2026-09-26T01:08:46Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "shi1197872757"
+          ],
+          "team_slug": "classroom50-group-0e37e88d79b3a8d8-67"
         },
         {
           "owner": "group-68",
