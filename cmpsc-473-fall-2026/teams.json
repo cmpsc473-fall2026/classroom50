@@ -222,6 +222,15 @@
           "formation": "student"
         },
         {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-26",
+          "id": 19734809,
+          "name": "Kai Teng Hou",
+          "members": [
+            "harrycodingnow"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-27",
           "id": 19550117,
           "name": "Bit Shift Metron",
@@ -706,7 +715,8 @@
           "id": 19694829,
           "name": "The Segfaults",
           "members": [
-            "adarsh9696"
+            "adarsh9696",
+            "sadid-hassan"
           ],
           "formation": "student"
         },
@@ -1005,6 +1015,15 @@
           "formation": "student"
         },
         {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-114",
+          "id": 19734824,
+          "name": "Rayysn Z",
+          "members": [
+            "raz5162-Rayyan"
+          ],
+          "formation": "student"
+        },
+        {
           "slug": "classroom50-group-0e37e88d79b3a8d8-115",
           "id": 19729647,
           "members": [
@@ -1177,6 +1196,14 @@
           "name": "Wing Ki Chow",
           "members": [
             "WingKiChow"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0e37e88d79b3a8d8-135",
+          "id": 19734982,
+          "members": [
+            "Rayyan2235"
           ],
           "formation": "student"
         }
