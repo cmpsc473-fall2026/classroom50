@@ -40,9 +40,9 @@
         "repo": "project2-template",
         "branch": "main"
       },
-      "due": "2026-10-03T22:00:00Z",
+      "due": "2026-10-08T22:00:00Z",
       "due_meta": {
-        "input": "2026-10-03T18:00:00",
+        "input": "2026-10-08T18:00:00",
         "zone": "America/New_York",
         "offset": "-04:00",
         "source": "auto-detected"
