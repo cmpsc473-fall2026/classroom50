@@ -4,7 +4,7 @@
     "project-1": {
       "type": "individual",
       "entries": [],
-      "collected_at": "2026-09-16T20:46:53Z",
+      "collected_at": "2026-10-04T18:09:14Z",
       "detected": [
         {
           "owner": "238Plutonium",
@@ -805,6 +805,13 @@
           "kind": "commit"
         },
         {
+          "owner": "Nanyabiss",
+          "count": 8,
+          "latest_datetime": "2026-09-13T02:27:33Z",
+          "late": true,
+          "kind": "commit"
+        },
+        {
           "owner": "Nasd00",
           "count": 6,
           "latest_datetime": "2026-09-12T03:51:21Z",
@@ -939,8 +946,8 @@
         },
         {
           "owner": "RJC862",
-          "count": 6,
-          "latest_datetime": "2026-09-14T22:10:15Z",
+          "count": 8,
+          "latest_datetime": "2026-09-19T00:48:24Z",
           "late": true,
           "kind": "commit"
         },
