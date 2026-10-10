@@ -1243,7 +1243,7 @@
     "project-2": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-10-09T16:09:31Z",
+      "collected_at": "2026-10-10T19:22:29Z",
       "detected": [
         {
           "owner": "group-1",
@@ -1339,9 +1339,9 @@
         },
         {
           "owner": "group-106",
-          "count": 9,
-          "latest_datetime": "2026-10-05T20:37:24Z",
-          "late": false,
+          "count": 14,
+          "latest_datetime": "2026-10-10T00:28:57Z",
+          "late": true,
           "kind": "commit",
           "member_usernames": [
             "haodonghuang777"
