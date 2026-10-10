@@ -2787,6 +2787,12 @@
           "team_slug": "classroom50-group-0e37e88d79b3a8d8-99"
         }
       ]
+    },
+    "project-3": {
+      "type": "team",
+      "entries": [],
+      "collected_at": "2026-10-10T19:16:50Z",
+      "detected": []
     }
   }
 }
