@@ -2791,8 +2791,31 @@
     "project-3": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-10-10T19:23:00Z",
-      "detected": []
+      "collected_at": "2026-10-11T16:06:13Z",
+      "detected": [
+        {
+          "owner": "group-5",
+          "count": 3,
+          "latest_datetime": "2026-10-11T14:46:12Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "sid-tek"
+          ],
+          "team_slug": "classroom50-group-0f6ff1a92eb563cc-5"
+        },
+        {
+          "owner": "group-7",
+          "count": 4,
+          "latest_datetime": "2026-10-11T02:43:04Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "jackpanarella12"
+          ],
+          "team_slug": "classroom50-group-0f6ff1a92eb563cc-7"
+        }
+      ]
     }
   }
 }
