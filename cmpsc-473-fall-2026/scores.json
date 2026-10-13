@@ -2791,12 +2791,24 @@
     "project-3": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-10-11T16:06:13Z",
+      "collected_at": "2026-10-13T12:53:29Z",
       "detected": [
         {
+          "owner": "group-21",
+          "count": 1,
+          "latest_datetime": "2026-10-13T01:34:17Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "galaxy-speed",
+            "zihan64"
+          ],
+          "team_slug": "classroom50-group-0f6ff1a92eb563cc-21"
+        },
+        {
           "owner": "group-5",
-          "count": 3,
-          "latest_datetime": "2026-10-11T14:46:12Z",
+          "count": 6,
+          "latest_datetime": "2026-10-12T13:13:24Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -2805,9 +2817,32 @@
           "team_slug": "classroom50-group-0f6ff1a92eb563cc-5"
         },
         {
+          "owner": "group-60",
+          "count": 1,
+          "latest_datetime": "2026-10-13T00:28:47Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "rjc862"
+          ],
+          "team_slug": "classroom50-group-0f6ff1a92eb563cc-60"
+        },
+        {
+          "owner": "group-64",
+          "count": 1,
+          "latest_datetime": "2026-10-13T05:30:57Z",
+          "late": false,
+          "kind": "commit",
+          "member_usernames": [
+            "dlantz3",
+            "gtroop"
+          ],
+          "team_slug": "classroom50-group-0f6ff1a92eb563cc-64"
+        },
+        {
           "owner": "group-7",
-          "count": 4,
-          "latest_datetime": "2026-10-11T02:43:04Z",
+          "count": 5,
+          "latest_datetime": "2026-10-11T21:14:40Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
