@@ -1366,7 +1366,8 @@
           "id": 20033880,
           "name": "Group 67",
           "members": [
-            "jchen4906"
+            "jchen4906",
+            "svcprogrammer"
           ],
           "formation": "student"
         },
@@ -2345,6 +2346,24 @@
           "name": "Jethin",
           "members": [
             "Doublebro007"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-130",
+          "id": 20179233,
+          "name": "Bennett Whitacre",
+          "members": [
+            "bennettwhitacre"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-131",
+          "id": 20179249,
+          "name": "Yaqoub Alsharrah",
+          "members": [
+            "Jakealsharrah157"
           ],
           "formation": "student"
         }
