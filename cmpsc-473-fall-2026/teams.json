@@ -1903,6 +1903,7 @@
           "id": 20107780,
           "name": "The Dangling Pointers",
           "members": [
+            "kpk5680",
             "mitras-git"
           ],
           "formation": "student"
@@ -2153,7 +2154,8 @@
           "id": 20172556,
           "name": "Dev2",
           "members": [
-            "9lvs"
+            "9lvs",
+            "katerina-n-dimitrova"
           ],
           "formation": "student"
         },
@@ -2234,6 +2236,14 @@
           "name": "Haodong_Group",
           "members": [
             "HaodongHuang777"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-116",
+          "id": 20180037,
+          "members": [
+            "mtvadam"
           ],
           "formation": "student"
         },
@@ -2364,6 +2374,14 @@
           "name": "Yaqoub Alsharrah",
           "members": [
             "Jakealsharrah157"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-132",
+          "id": 20180061,
+          "members": [
+            "jeetp87"
           ],
           "formation": "student"
         }
