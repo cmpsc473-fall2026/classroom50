@@ -1217,6 +1217,1130 @@
           "formation": "student"
         }
       ]
+    },
+    "project-3": {
+      "teams": [
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-1",
+          "id": 20026758,
+          "name": "temp-TA-salman",
+          "members": [
+            "SalmanEstyak"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-2",
+          "id": 20027117,
+          "name": "MyGroup",
+          "members": [
+            "goktangudukbay"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-3",
+          "id": 20027915,
+          "name": "Semaphore",
+          "members": [
+            "VincentChen2"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-4",
+          "id": 20028203,
+          "name": "RYGroup",
+          "members": [
+            "zzhh-7701"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-5",
+          "id": 20031843,
+          "members": [
+            "Sid-Tek"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-6",
+          "id": 20032546,
+          "name": "The Jaguar",
+          "members": [
+            "karkrazysun9"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-7",
+          "id": 20033142,
+          "name": "Group6",
+          "members": [
+            "Jackpanarella12"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-8",
+          "id": 20033184,
+          "members": [
+            "nzm5643",
+            "NalluriTanavreddy"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-9",
+          "id": 20033185,
+          "name": "Group 7",
+          "members": [
+            "ajv5820",
+            "jessicaajawa"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-10",
+          "id": 20033200,
+          "members": [
+            "ethankuo6025"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-11",
+          "id": 20033214,
+          "name": "wpetula",
+          "members": [
+            "WyattPetula"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-12",
+          "id": 20033217,
+          "members": [
+            "arianasookoo",
+            "Misterhungery21"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-13",
+          "id": 20033276,
+          "members": [
+            "Tylerlovett04",
+            "rmbdrew"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-14",
+          "id": 20033330,
+          "members": [
+            "ash0911suresh"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-15",
+          "id": 20033469,
+          "name": "Group 20",
+          "members": [
+            "crqzyexprees"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-16",
+          "id": 20033500,
+          "members": [
+            "ModdedMarionette"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-17",
+          "id": 20033880,
+          "name": "Group 67",
+          "members": [
+            "jchen4906"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-18",
+          "id": 20034080,
+          "members": [
+            "Jiahao-Zeng"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-19",
+          "id": 20034333,
+          "name": "Group 9",
+          "members": [
+            "yxk5255",
+            "Charlie0921"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-20",
+          "id": 20034359,
+          "name": "Haikal",
+          "members": [
+            "DaubenytheWarden2003"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-21",
+          "id": 20034440,
+          "name": "TBD",
+          "members": [
+            "galaxy-speed",
+            "Zihan64"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-22",
+          "id": 20034809,
+          "name": "Group 3",
+          "members": [
+            "DevSingh05",
+            "krishna-0204"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-23",
+          "id": 20034931,
+          "members": [
+            "Ahmed-Alj"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-24",
+          "id": 20035024,
+          "name": "Oh S",
+          "members": [
+            "Hyperstop17",
+            "BrandonVassallo"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-25",
+          "id": 20035339,
+          "members": [
+            "DT2948"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-26",
+          "id": 20035741,
+          "members": [
+            "rjonnavittula"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-27",
+          "id": 20035890,
+          "members": [
+            "lukekproj"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-28",
+          "id": 20035960,
+          "name": "Group 21",
+          "members": [
+            "MadhavKapoor2005"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-29",
+          "id": 20036479,
+          "members": [
+            "vanishagupta05",
+            "Viroopaksh"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-30",
+          "id": 20037973,
+          "members": [
+            "fbano-0619"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-31",
+          "id": 20039245,
+          "name": "NotAGroup",
+          "members": [
+            "mbl61"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-32",
+          "id": 20039751,
+          "name": "Group 31",
+          "members": [
+            "harrycodingnow"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-33",
+          "id": 20039945,
+          "members": [
+            "agulden",
+            "clm6757"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-34",
+          "id": 20040085,
+          "name": "The Raven",
+          "members": [
+            "V1ckyVong"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-35",
+          "id": 20040090,
+          "members": [
+            "Texsic"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-36",
+          "id": 20040212,
+          "name": "Hassan E",
+          "members": [
+            "Hassan2k5"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-37",
+          "id": 20040989,
+          "members": [
+            "ajl7184psu"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-38",
+          "id": 20041071,
+          "members": [
+            "kenvanhouten",
+            "hmcmullen5606"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-39",
+          "id": 20041081,
+          "members": [
+            "chathnen"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-40",
+          "id": 20041137,
+          "name": "Neil Chattopadhyay",
+          "members": [
+            "neilchattopadhyay123"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-41",
+          "id": 20041140,
+          "name": "hi",
+          "members": [
+            "dpak2005"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-42",
+          "id": 20041681,
+          "members": [
+            "Arv5367"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-43",
+          "id": 20041869,
+          "members": [
+            "nkotikal",
+            "h4lfheart"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-44",
+          "id": 20041870,
+          "members": [
+            "spencerirving"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-45",
+          "id": 20042031,
+          "members": [
+            "kavyansh091"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-46",
+          "id": 20042389,
+          "name": "Group 46",
+          "members": [
+            "mackenzie-nelson",
+            "nehavalamkonda"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-47",
+          "id": 20043258,
+          "members": [
+            "namanKhand"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-48",
+          "id": 20053161,
+          "members": [
+            "efg5344"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-49",
+          "id": 20054655,
+          "name": "lock",
+          "members": [
+            "madhurakhandkar",
+            "lmk6156"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-50",
+          "id": 20055480,
+          "members": [
+            "Prakhar6",
+            "Nasd00"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-51",
+          "id": 20055487,
+          "name": "Group 11",
+          "members": [
+            "gkaim2005",
+            "noski2"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-52",
+          "id": 20056118,
+          "name": "Evil Residents",
+          "members": [
+            "B-DogVictini",
+            "AnthonyH03"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-53",
+          "id": 20057218,
+          "members": [
+            "joshb1234"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-54",
+          "id": 20057971,
+          "name": "Bit Shift Metron",
+          "members": [
+            "m-palamarchuk",
+            "cxs6261"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-55",
+          "id": 20058408,
+          "members": [
+            "ryannair05"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-56",
+          "id": 20058606,
+          "members": [
+            "leonac24"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-57",
+          "id": 20058880,
+          "name": "verity",
+          "members": [
+            "LiangtaoHu",
+            "zytran"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-58",
+          "id": 20058969,
+          "name": "JS",
+          "members": [
+            "kmathewjason",
+            "sbv5268"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-59",
+          "id": 20059193,
+          "name": "Ahnaf",
+          "members": [
+            "ahnaf2553"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-60",
+          "id": 20060443,
+          "name": "Ryan",
+          "members": [
+            "RJC862"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-61",
+          "id": 20060451,
+          "members": [
+            "TaiSchaefer"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-62",
+          "id": 20061448,
+          "members": [
+            "willmeyer216"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-63",
+          "id": 20062100,
+          "members": [
+            "hbutterfinger2"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-64",
+          "id": 20062175,
+          "members": [
+            "DLantz3",
+            "gtroop"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-65",
+          "id": 20064585,
+          "name": "Group -1",
+          "members": [
+            "MagicalFiesh"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-66",
+          "id": 20073630,
+          "name": "Xuan Yunlei",
+          "members": [
+            "YunleiGe",
+            "xfc5147"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-67",
+          "id": 20075038,
+          "members": [
+            "AugustZ44"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-68",
+          "id": 20076521,
+          "name": "Adityas",
+          "members": [
+            "adityapandya7979",
+            "adithak17"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-69",
+          "id": 20078217,
+          "members": [
+            "anuroopsaini193"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-70",
+          "id": 20082129,
+          "members": [
+            "mvelak"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-71",
+          "id": 20084620,
+          "name": "Shreyas",
+          "members": [
+            "Singhbling523"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-72",
+          "id": 20085172,
+          "members": [
+            "OBress",
+            "cat391"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-73",
+          "id": 20086734,
+          "members": [
+            "mikey2005-S"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-74",
+          "id": 20088042,
+          "members": [
+            "shi1197872757"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-75",
+          "id": 20088557,
+          "members": [
+            "artaGhs"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-76",
+          "id": 20099457,
+          "members": [
+            "ctrl-glaive"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-77",
+          "id": 20105137,
+          "name": "osgrp",
+          "members": [
+            "vivekp-05",
+            "MarmikChaudhari"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-78",
+          "id": 20107780,
+          "name": "The Dangling Pointers",
+          "members": [
+            "mitras-git"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-79",
+          "id": 20108612,
+          "members": [
+            "alphakotenok"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-80",
+          "id": 20109371,
+          "members": [
+            "dhavalaaks23"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-81",
+          "id": 20124057,
+          "members": [
+            "mfrayne"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-82",
+          "id": 20125055,
+          "name": "Jayson Duell",
+          "members": [
+            "JaysonDuell"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-83",
+          "id": 20130027,
+          "name": "AKKK",
+          "members": [
+            "Afif-K",
+            "Keshav-kh"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-84",
+          "id": 20130123,
+          "members": [
+            "Daniel-Kim000",
+            "sfurniss1234"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-85",
+          "id": 20132101,
+          "members": [
+            "Ufv5002"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-86",
+          "id": 20132186,
+          "name": "boss",
+          "members": [
+            "Ameya-bit",
+            "bossbadi"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-87",
+          "id": 20134397,
+          "name": "SBGL's",
+          "members": [
+            "shrey-singala"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-88",
+          "id": 20144540,
+          "name": "Enbo Yao",
+          "members": [
+            "Eyao24"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-89",
+          "id": 20145521,
+          "name": "Group",
+          "members": [
+            "lpc5553"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-90",
+          "id": 20150900,
+          "name": "Code Blooded",
+          "members": [
+            "TisyaRok",
+            "npa5443"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-91",
+          "id": 20153052,
+          "name": "Group 90",
+          "members": [
+            "MiaWe0"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-92",
+          "id": 20159707,
+          "name": "Ish",
+          "members": [
+            "rishitap25",
+            "mzr6030"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-93",
+          "id": 20161073,
+          "name": "Ethan Siu",
+          "members": [
+            "ejs6710"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-94",
+          "id": 20161275,
+          "name": "jonathan",
+          "members": [
+            "Jonathanhsiao123"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-95",
+          "id": 20161494,
+          "name": "Crypta Mathematica",
+          "members": [
+            "mkb-GSI9"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-96",
+          "id": 20162003,
+          "members": [
+            "par311psu"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-97",
+          "id": 20162044,
+          "name": "Group 97",
+          "members": [
+            "kierstur8912"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-98",
+          "id": 20162534,
+          "name": "panduyams",
+          "members": [
+            "sreenidhbonagiri",
+            "sanyam-the-coder"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-99",
+          "id": 20162700,
+          "name": "group 98",
+          "members": [
+            "KamikazePilot"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-100",
+          "id": 20163464,
+          "members": [
+            "rbalusu5630",
+            "sfb6144"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-101",
+          "id": 20163510,
+          "members": [
+            "wangjiewen366-bot"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-102",
+          "id": 20163800,
+          "members": [
+            "238Plutonium",
+            "Sophie-lmy"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-103",
+          "id": 20164073,
+          "members": [
+            "iay5016-a11y"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-104",
+          "id": 20164474,
+          "name": "bimbimbambam",
+          "members": [
+            "nqk5435"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-105",
+          "id": 20165992,
+          "name": "Group 104",
+          "members": [
+            "sxgargg"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-106",
+          "id": 20172556,
+          "name": "Dev2",
+          "members": [
+            "9lvs"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-107",
+          "id": 20174649,
+          "members": [
+            "danielkkhalilpsu"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-108",
+          "id": 20174944,
+          "name": "Group 108",
+          "members": [
+            "WingKiChow"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-109",
+          "id": 20175234,
+          "name": "Zia Bhatti Group",
+          "members": [
+            "zia2ia"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-110",
+          "id": 20175716,
+          "members": [
+            "aadycm",
+            "Manmeet-07"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-111",
+          "id": 20176636,
+          "name": "ZW",
+          "members": [
+            "zkh5243"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-112",
+          "id": 20177013,
+          "members": [
+            "tkt5336"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-113",
+          "id": 20177030,
+          "name": "Steven C",
+          "members": [
+            "Nanyabiss"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-114",
+          "id": 20177040,
+          "name": "Full Boxed",
+          "members": [
+            "ryan9987",
+            "mgreenlaw10"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-115",
+          "id": 20177101,
+          "name": "Haodong_Group",
+          "members": [
+            "HaodongHuang777"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-116",
+          "id": 20177217,
+          "name": "Aditya-Kashvi",
+          "members": [
+            "kpk5680"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-117",
+          "id": 20177332,
+          "members": [
+            "Harshagarwal06"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-118",
+          "id": 20177547,
+          "name": "Group 118",
+          "members": [
+            "jes7177"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-119",
+          "id": 20177549,
+          "members": [
+            "stealthblight"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-120",
+          "id": 20177672,
+          "members": [
+            "Adnan8104",
+            "hbn5115"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-121",
+          "id": 20177694,
+          "name": "Group DAmico",
+          "members": [
+            "colind17"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-122",
+          "id": 20177986,
+          "name": "Arshawn",
+          "members": [
+            "arshawnv1"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-123",
+          "id": 20178439,
+          "name": "Group 121",
+          "members": [
+            "mju5144"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-124",
+          "id": 20178465,
+          "members": [
+            "PihuAgarwal",
+            "itsanushkah"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-125",
+          "id": 20178483,
+          "members": [
+            "emulen"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-126",
+          "id": 20178723,
+          "name": "Rayyan Z",
+          "members": [
+            "raz5162-Rayyan"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-127",
+          "id": 20178765,
+          "members": [
+            "shreyas-challa"
+          ],
+          "formation": "student"
+        }
+      ]
     }
   }
 }
