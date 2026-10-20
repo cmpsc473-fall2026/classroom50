@@ -2791,7 +2791,7 @@
     "project-3": {
       "type": "team",
       "entries": [],
-      "collected_at": "2026-10-20T04:37:00Z",
+      "collected_at": "2026-10-20T13:25:40Z",
       "detected": [
         {
           "owner": "group-10",
@@ -3211,8 +3211,8 @@
         },
         {
           "owner": "group-137",
-          "count": 18,
-          "latest_datetime": "2026-10-20T04:36:43Z",
+          "count": 20,
+          "latest_datetime": "2026-10-20T05:08:27Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3267,8 +3267,8 @@
         },
         {
           "owner": "group-18",
-          "count": 3,
-          "latest_datetime": "2026-10-20T02:45:40Z",
+          "count": 4,
+          "latest_datetime": "2026-10-20T05:04:45Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3313,8 +3313,8 @@
         },
         {
           "owner": "group-23",
-          "count": 11,
-          "latest_datetime": "2026-10-20T03:49:57Z",
+          "count": 12,
+          "latest_datetime": "2026-10-20T05:29:00Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3380,8 +3380,8 @@
         },
         {
           "owner": "group-29",
-          "count": 1,
-          "latest_datetime": "2026-10-19T00:22:46Z",
+          "count": 2,
+          "latest_datetime": "2026-10-20T06:32:48Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3436,8 +3436,8 @@
         },
         {
           "owner": "group-33",
-          "count": 7,
-          "latest_datetime": "2026-10-19T20:25:59Z",
+          "count": 8,
+          "latest_datetime": "2026-10-20T13:16:31Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3492,8 +3492,8 @@
         },
         {
           "owner": "group-38",
-          "count": 4,
-          "latest_datetime": "2026-10-20T03:57:51Z",
+          "count": 5,
+          "latest_datetime": "2026-10-20T05:21:09Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3571,8 +3571,8 @@
         },
         {
           "owner": "group-44",
-          "count": 3,
-          "latest_datetime": "2026-10-19T04:58:56Z",
+          "count": 4,
+          "latest_datetime": "2026-10-20T04:54:34Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3832,8 +3832,8 @@
         },
         {
           "owner": "group-66",
-          "count": 4,
-          "latest_datetime": "2026-10-19T03:42:17Z",
+          "count": 5,
+          "latest_datetime": "2026-10-20T09:04:46Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
@@ -3867,8 +3867,8 @@
         },
         {
           "owner": "group-69",
-          "count": 2,
-          "latest_datetime": "2026-10-19T23:13:45Z",
+          "count": 3,
+          "latest_datetime": "2026-10-20T12:55:28Z",
           "late": false,
           "kind": "commit",
           "member_usernames": [
