@@ -1983,7 +1983,8 @@
           "id": 20134397,
           "name": "SBGL's",
           "members": [
-            "shrey-singala"
+            "shrey-singala",
+            "kvv5187"
           ],
           "formation": "student"
         },
@@ -2048,7 +2049,8 @@
           "id": 20161275,
           "name": "jonathan",
           "members": [
-            "Jonathanhsiao123"
+            "Jonathanhsiao123",
+            "Marvin2NB"
           ],
           "formation": "student"
         },
@@ -2382,6 +2384,83 @@
           "id": 20180061,
           "members": [
             "jeetp87"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-133",
+          "id": 20192300,
+          "name": "Patrick Duffy",
+          "members": [
+            "pcd5147"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-134",
+          "id": 20197073,
+          "members": [],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-135",
+          "id": 20197384,
+          "members": [
+            "Rayyan2235"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-136",
+          "id": 20198881,
+          "name": "Otto Slade",
+          "members": [
+            "oas5234"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-137",
+          "id": 20200384,
+          "name": "Anish Subbakaran",
+          "members": [
+            "Asubbb"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-138",
+          "id": 20202705,
+          "name": "Sadid's Group",
+          "members": [
+            "adarsh9696",
+            "sadid-hassan"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-139",
+          "id": 20219659,
+          "members": [
+            "mzl6042"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-140",
+          "id": 20220848,
+          "name": "Vignesh",
+          "members": [
+            "peram-vignesh"
+          ],
+          "formation": "student"
+        },
+        {
+          "slug": "classroom50-group-0f6ff1a92eb563cc-141",
+          "id": 20225089,
+          "name": "DP",
+          "members": [
+            "danielsoo"
           ],
           "formation": "student"
         }
