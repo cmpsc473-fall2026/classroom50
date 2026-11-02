@@ -94,9 +94,9 @@
         "repo": "project4-template",
         "branch": "main"
       },
-      "due": "2026-11-21T04:59:00Z",
+      "due": "2026-12-11T04:59:00Z",
       "due_meta": {
-        "input": "2026-11-20T23:59:00",
+        "input": "2026-12-10T23:59:00",
         "zone": "America/New_York",
         "offset": "-05:00",
         "source": "auto-detected"
