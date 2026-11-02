@@ -79,6 +79,33 @@
       "grading": {
         "mode": "off"
       }
+    },
+    {
+      "slug": "project-4",
+      "name": "Project-4",
+      "mode": "team",
+      "autograder": "default",
+      "feedback_pr": true,
+      "no_autograder": true,
+      "copy_about": true,
+      "copy_topics": true,
+      "template": {
+        "owner": "cmpsc473-fall2026",
+        "repo": "project4-template",
+        "branch": "main"
+      },
+      "due": "2026-11-21T04:59:00Z",
+      "due_meta": {
+        "input": "2026-11-20T23:59:00",
+        "zone": "America/New_York",
+        "offset": "-05:00",
+        "source": "auto-detected"
+      },
+      "max_group_size": 2,
+      "team_formation": "student",
+      "grading": {
+        "mode": "off"
+      }
     }
   ]
 }
